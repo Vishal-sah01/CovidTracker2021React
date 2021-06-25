@@ -136,7 +136,7 @@ function Home() {
   return (
     <>
       <Helmet>
-        <title>Coronavirus Outbreak in India - covid19india.org</title>
+        <title>Coronavirus Outbreak in India</title>
         <meta
           name="title"
           content="Coronavirus Outbreak in India: Latest Map and Case Count"
